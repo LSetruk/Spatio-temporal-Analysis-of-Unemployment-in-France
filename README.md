@@ -57,7 +57,7 @@ Unemployment in France is primarily driven by **structural spatial factors**, wh
 
 ## Visualization
 
-![Unemployment map](figures/chomage_map.png)
+![Unemployment map](chomage_map.png)
 
 ---
 
